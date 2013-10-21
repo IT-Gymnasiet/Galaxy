@@ -1,4 +1,4 @@
 Galaxy
 ======
 
-A sensory/actuator network based. 
+A sensory/actuator network. 
